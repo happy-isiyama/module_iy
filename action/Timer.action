@@ -1,0 +1,8 @@
+#Difine the goal
+duration time_to_wait
+---
+#Define the result
+duration time_eleasped
+---
+#Define the a feedback message
+duration time_eleasped
